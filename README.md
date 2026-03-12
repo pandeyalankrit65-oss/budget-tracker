@@ -1,11 +1,14 @@
 # Budget Tracker
 
-A simple application to track personal expenses and manage monthly budgets.
+A simple application to track expenses and manage personal finances.
 
-Features:
-- Add and track expenses
-- Categorize spending
-- View financial summary
+## Features
+* Add and record expenses
+* Track spending
+* Simple financial management
 
-Tech Stack:
-Dart
+## Tech Stack
+* Dart
+
+## Author
+Alankrit Pandey
